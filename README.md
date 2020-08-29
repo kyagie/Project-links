@@ -1,4 +1,4 @@
 # Project-links
 ## UCUTimes APK
 
-<a href="/ucutimesv4.apk" download>UCUTimes APK</a>
+Download it here. (UCUTimes APK)[https://bit.ly/32uaVbm]
